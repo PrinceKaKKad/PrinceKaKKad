@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceKaKKad
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning B.tech in Information communication and technology.
-- 📫 How to reach me [Prince__Kakkad/](https://www.linkedin.com/in/prince-kakkad-516a61244/)
+- 📫 How to reach me Linkedin: [/Prince__Kakkad](https://www.linkedin.com/in/prince-kakkad-516a61244/)
 
 <!---
 PrinceKaKKad/PrinceKaKKad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
