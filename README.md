@@ -1,3 +1,4 @@
+<html>
 <div style="display: flex; align-items: center;">
   <!-- Left Container for Details -->
   <div style="flex: 1;">
@@ -30,3 +31,4 @@
     <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
   </div>
 </div>
+</html>
