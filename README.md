@@ -1,7 +1,9 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
-</p>
+<div style="display: flex; align-items: center;">
+  <p align="center">
+    <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
+  </p>
+<div style="margin-left: 20px;">
 
 # Prince Kakkad
 
@@ -30,3 +32,5 @@ Hello! I'm Prince Kakkad, a passionate web developer and Python enthusiast with 
 Feel free to connect with me for collaboration or just to say hi!
 
 Thanks for visiting my GitHub page! 😊
+  </div>
+</div>
