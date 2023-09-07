@@ -20,11 +20,6 @@ Hello! I'm Prince Kakkad, a passionate web developer and Python enthusiast with 
 - **DevOps**: Docker, AWS
 - **Problem Solving**: Algorithms, Data Structures
 
-## Featured Projects
-
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
-- [Project 3](https://github.com/yourusername/project3): Description of project 3.
 
 ## Contact Me
 
