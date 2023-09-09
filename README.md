@@ -1,8 +1,10 @@
 <!-- Header -->
 <div style="display: flex; align-items: center;">
-  <p align="center">
-    <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
-  </p>
+  <div>
+    <p align="center">
+      <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
+    </p>
+  </div>
   <div style="margin-left: 20px;">
     <h1>Prince Kakkad</h1>
     <p>
