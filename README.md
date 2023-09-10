@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Add Bootstrap CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Github README</title>
+    <!-- Add Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.5.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 text-center">
-                <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200" class="img-fluid rounded-circle">
-            </div>
             <div class="col-md-8">
                 <h1>Prince Kakkad</h1>
                 <p>
@@ -40,7 +38,13 @@
                     Feel free to connect with me for collaboration or just to say hi! Thanks for visiting my GitHub page! 😊
                 </p>
             </div>
+            <div class="col-md-4 text-center">
+                <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200" class="img-fluid rounded-circle">
+            </div>
         </div>
     </div>
+
+    <!-- Add Bootstrap 5 JS (optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.5.0/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
