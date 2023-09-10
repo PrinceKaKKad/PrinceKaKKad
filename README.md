@@ -1,36 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <img src="your_profile_image.jpg" alt="Your Profile Image">
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
-    </header>
-    <main>
-        <section class="details">
-            <h2>About Me</h2>
-            <p>I'm a passionate web developer with experience in...</p>
-        </section>
-        <section class="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
-            </ul>
-        </section>
-        <section class="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="link-to-project-1">Project 1</a></li>
-                <li><a href="link-to-project-2">Project 2</a></li>
-            </ul>
-        </section>
-    </main>
-</body>
-</html>
+<!-- Header -->
+<div style="display: flex; align-items: center;">
+  <p align="center">
+    <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="200">
+  </p>
+<div style="margin-left: 20px;">
+
+# Prince Kakkad
+
+👨‍💻 Web Developer | 🐍 Python Developer | 💼 3 Years of Experience
+
+## About Me
+
+Hello! I'm Prince Kakkad, a passionate web developer and Python enthusiast with three years of hands-on experience. I love building elegant web applications and solving complex problems through code.
+
+## Skills
+
+- **Web Development**: HTML, CSS, JavaScript, React
+- **Backend**: Python
+- **Databases**: SQL, MongoDB
+- **Version Control**: Git, GitHub
+- **DevOps**: Docker, AWS
+- **Problem Solving**: Algorithms, Data Structures
+
+
+## Contact Me
+
+- 🌐 [Website](https://princekakkad.tech)
+- 📧 [Email](mailto:info@princekakkad.tech)
+- 💼 [LinkedIn](https://linkedin.com/in/prince-kakkad)
+
+Feel free to connect with me for collaboration or just to say hi!
+
+Thanks for visiting my GitHub page! 😊
+  </div>
+</div>
