@@ -1,3 +1,7 @@
+
+<head>
+        <meta name="google-site-verification" content="h9qxI_2GNeP1ZeRF1g_pkmSFk_H0U_quiY0UOGCA3Cs" />
+</head>
 <div align="center" bgcolor="#f5f5f5">
         <table width="100%" cellpadding="20" border="0">
             <tr>
