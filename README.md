@@ -7,7 +7,7 @@
             <tr>
                 <td align="center" valign="top" width="30%">
                    <br>
-                    <img src="https://princekakkad.tech/images/author-1.jpg" alt="Prince Kakkad" width="500px" border="0">
+                    <img src="https://raw.githubusercontent.com/PrinceKaKKad/PrinceKaKKad/main/author.jpg" alt="Prince Kakkad" width="500px" border="0">
                     <h1>Prince Kakkad</h1>
                     <p>👨‍💻 Web Developer | 🐍 Python </p>
                    <br>
