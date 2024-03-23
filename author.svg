@@ -93,4 +93,15 @@
                 <div class="card card0">
                     <div class="border">
                         <h2>Prince Kakkad</h2>
-                        <div clas
+                        <div class="icons">
+                            <a href="https://instagram.com/prince__kakkad"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                            <i class="fa fa-github" aria-hidden="true"></i>
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
