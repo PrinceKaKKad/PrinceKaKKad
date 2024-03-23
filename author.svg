@@ -8,7 +8,6 @@
                     align-items: center;
                     margin: 0 auto;
                 }
-
                 .border {
                     height: 369px;
                     width: 290px;
@@ -17,11 +16,9 @@
                     transition: border 1s;
                     position: relative;
                 }
-
                 .border:hover {
                     border: 1px solid #fff;
                 }
-
                 .card {
                     height: 379px;
                     width: 300px;
@@ -36,17 +33,14 @@
                     align-items: center;
                     position: relative;
                 }
-
                 .card0 {
                     background: url("https://codeestro.com/assets/profile.png") center center no-repeat;
                     background-size: 380px;
                 }
-
                 .card0:hover {
                     background: url("https://codeestro.com/assets/profile.png") left center no-repeat;
                     background-size: 420px;
                 }
-
                 .card0:hover h2 {
                     opacity: 1;
                 }
@@ -54,7 +48,6 @@
                 .card0:hover .fa {
                     opacity: 1;
                 }
-
                 h2 {
                     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
                     color: #fff;
@@ -62,12 +55,10 @@
                     opacity: 0;
                     transition: opacity 1s;
                 }
-
                 .fa {
                     opacity: 0;
                     transition: opacity 1s;
                 }
-
                 .icons {
                     position: absolute;
                     fill: #fff;
@@ -80,11 +71,9 @@
                     align-items: center;
                     justify-content: space-around;
                 }
-
                 i {
                     color: white;
                 }
-
                 i:hover {
                     color: hotpink;
                 }
