@@ -34,11 +34,11 @@
                     position: relative;
                 }
                 .card0 {
-                    background: url("https://codeestro.com/assets/profile.png") center center no-repeat;
+                    background: url("https://raw.githubusercontent.com/PrinceKaKKad/PrinceKaKKad/main/profile.png") center center no-repeat;
                     background-size: 380px;
                 }
                 .card0:hover {
-                    background: url("https://codeestro.com/assets/profile.png") left center no-repeat;
+                    background: url("https://raw.githubusercontent.com/PrinceKaKKad/PrinceKaKKad/main/profile.png") left center no-repeat;
                     background-size: 420px;
                 }
                 .card0:hover h2 {
